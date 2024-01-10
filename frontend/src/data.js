@@ -98,14 +98,14 @@ export const hku = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "./hku.1.png",
     company: "Zoozle",
-    link: "",
+    link: "https://coursera.org/verif y/LGJS5KDNBEUW",
   },
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "./hku.2.png",
     company: "Dooble.io",
-    link: "",
+    link: "https://coursera.org/verif y/LQN5MNP2GVTV",
   },
   {
     quote:
