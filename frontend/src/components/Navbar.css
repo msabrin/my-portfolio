@@ -1,0 +1,28 @@
+.nav {
+    background-color: plum;
+}
+a {
+    color: black;
+}
+
+.hm {
+    color: #d867a1;
+    background-color: #090909;
+}
+
+.nab:hover {
+color: #97014f;
+}
+
+.logo {
+    height: 60px;
+    margin-top: 10px;
+}
+
+
+.lnk {
+    background-color: #97014f;
+    color: azure;
+    text-decoration: solid;
+    border: 5px;
+}
