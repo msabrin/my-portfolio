@@ -61,7 +61,7 @@ export default function Testimonials() {
   </div>
 </div>
 
-<div className="flex flex-wrap m-4">
+<div className="row flex flex-wrap m-4">
   {hku.map((hku) => (
     <div className="p-4 md:w-1/3 w-full">
       <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
