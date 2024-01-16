@@ -5,6 +5,7 @@ import fcbk from "./image/fcbk.png";
 import insta from "./image/insta.png";
 import twtr from "./image/twtr.png";
 import git from "./image/git.png";
+import Footer from "./Footer";
 
 export default function Contact() {
   const [name, setName] = React.useState("");
@@ -137,6 +138,7 @@ export default function Contact() {
             <a href="https://github.com/msabrin"><img className="git" alt="github" src={git} /></a>
           </div>
       </div>
+      <Footer />
     </section>
   );
 }

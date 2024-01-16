@@ -16,7 +16,6 @@ export default function Navbar() {
           <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
             <Link className="nab mr-5" to='/'>About</Link>
             <Link className="nab mr-5" to='/whychoosem'>Why Choose Me</Link>
-            <Link className="nab mr-5" to='/projects'>Projects</Link>
             <Link className="nab mr-5" to='/contact'>contact</Link>
 
           </nav>

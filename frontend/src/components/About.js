@@ -14,9 +14,11 @@ export default function About() {
               I'm a Professional Web devoloper.
               </h2>
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+              Mirza Sabrin here, a student passionate about leveraging web development to make a 
+              positive impact in my community. With a focus on meaningful contributions through 
+              programming, I bring enthusiasm and dedication to my work. Also, holding the title 
+              of a national skater, I strive to blend my passion for technology and athleticism 
+              to create impactful projects.
               </p>
               <div className="flex justify-center">
                 <Link

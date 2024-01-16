@@ -36,58 +36,65 @@ export const projects = [
 export const meta = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "18 hours (approximately). Skills I have gain: *Web Development Tools, *HTML and CSS, *Responsive Web Design, *Front-End Web Development, *User Interface.",
     image: "./meta.1.png",
-    company: "Zoozle",
+    company: "Introduction to Front-End Development",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "26 hours (approximately). Skills I have gain: *Unit Testing, *React (Web Framework), *Front-End Web Development",
     image: "./meta.2.png",
-    company: "Dooble.io",
+    company: "Advanced React",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "27 hours (approximately). Skills I have gain: *React (Web Framework), *JavaScript, *Front-End Web Development, *User Interface.",
     image: "./meta.3.png",
-    company: "Dooble.io",
+    company: "Front-End Developer Capstone",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "21 hours (approximately). Skills I have gain: *Web Design, *Accessibility, *Front-End Web Development, *User Experience (UX).",
     image: "./mets.4.png",
-    company: "Dooble.io",
+    company: "Principles of UX/UI Design",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "11 hours (approximately). Skills I have gain: *Data Structure, *Computer Science, *Algorithms, *Communication, *Pseudocode.",
     image: "./meta.5.png",
-    company: "Dooble.io",
+    company: "Coding Interview Preparation",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "26 hours (approximately). Skills I have gain: *React (Web Framework), *Application development, *Web Application, *Front-End Web Development.",
     image: "./meta.6.png",
-    company: "Dooble.io",
+    company: "React Basics",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "28 hours (approximately). Skills I have gain: *HTML and CSS, *React (Web Framework), *Debugging, *JavaScript, *User Interface.",
     image: "./meta.7.png",
-    company: "Dooble.io",
+    company: "HTML and CSS in depth",
     link: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "13 hours (approximately). Skills I have gain: *Version Control, *Github, *Bash (Unix Shell), *Web Development, *Linux.",
     image: "./meta.8.png",
-    company: "Dooble.io",
+    company: "Version Control",
+    link: "",
+  },
+  {
+    quote:
+      "42 hours (approximately). Skills I have gain: *Test-Driven Development, *JavaScript, *Front-End Web Development, *Object-Oriented Programming (OOP).",
+    image: "./meta.8.png",
+    company: "Meta",
     link: "",
   },
 ];

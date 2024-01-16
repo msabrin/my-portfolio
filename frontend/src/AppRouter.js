@@ -5,6 +5,7 @@ import Contact from './components/Contact';
 import WhyChoosem from './components/WhyChoosem';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+// import Move from './move';
 
 const AppRouter = () => {
   return (
