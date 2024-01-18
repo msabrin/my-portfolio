@@ -5,6 +5,7 @@ import Contact from './components/Contact';
 import WhyChoosem from './components/WhyChoosem';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import Footer from './components/Footer';
 // import Move from './move';
 
 const AppRouter = () => {
@@ -16,6 +17,7 @@ const AppRouter = () => {
         <Route path="/WhyChoosem" element={<WhyChoosem />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
+      <Footer />
     </Router>
   );
 };

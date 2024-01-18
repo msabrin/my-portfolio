@@ -8,7 +8,6 @@ import hkut from "./image/hku.png";
 import klanguage from "./image/klanguage.png";
 import "./test.css";
 import "./move.css";
-import Footer from "./Footer";
 
 $(window).on('load resize scroll', function() {
   $('.bg-static').each(function() {
@@ -127,7 +126,6 @@ ion/U76MJYCL5NTQ"><img alt="klanguage" src={klanguage}/></a>
 </div>
 
 </div>
-<Footer />
 </section>
 );
 }

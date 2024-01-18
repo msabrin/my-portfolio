@@ -1,11 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import imag from "./image/cl.gif";
-import fcbk from "./image/fcbk.png";
-import insta from "./image/insta.png";
-import twtr from "./image/twtr.png";
-import git from "./image/git.png";
-import Footer from "./Footer";
+
 
 export default function Contact() {
   const [name, setName] = React.useState("");
@@ -67,10 +63,6 @@ export default function Contact() {
               <a className="text-pink-300 leading-relaxed">
                 youggamhanona@gmail.com
               </a>
-              {/* <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
-              </h2>
-              <p className="leading-relaxed">123-456-7890</p> */}
             </div>
           </div>
         </div>
@@ -84,9 +76,9 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Hire Me
           </h2>
-          <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+          <p className="ln leading-relaxed mb-5">
+          Welcome to my creative space! 🚀. Explore my projects, and join me on this exciting journey.
+          I'm always up for a new challenge or collaboration! Let's build something extraordinary together! 🌟
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-white-400">
@@ -131,14 +123,7 @@ export default function Contact() {
             Submit
           </button>
         </form>
-          <div className="icn">
-            <a href="https://www.instagram.com/jeonyounsooesa/"><img className="ins" alt="instagram" src={insta} /></a>
-            <a href="https://www.facebook.com/jeonyounsooes"><img className="fcbk" alt="facebook" src={fcbk} /></a>
-            <a href="https://twitter.com/jeonyounsooesa"><img className="twtr" alt="twitter" src={twtr} /></a>
-            <a href="https://github.com/msabrin"><img className="git" alt="github" src={git} /></a>
-          </div>
       </div>
-      <Footer />
     </section>
   );
 }

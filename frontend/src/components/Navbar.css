@@ -1,17 +1,28 @@
+ @import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
 .nav {
     background-color: plum;
+    font-family: 'Single Day', cursive;
 }
 a {
     color: black;
+    font-size: 32px;
+    border-right: 2px #000000;
 }
 
 .hm {
     color: #d867a1;
     background-color: #090909;
+    font-size: 34px;
+}
+
+.nab{
+    padding-top: 8px;
+
 }
 
 .nab:hover {
-color: #97014f;
+color: #070707;
 }
 
 .logo {

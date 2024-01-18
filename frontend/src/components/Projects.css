@@ -1,5 +1,5 @@
 #projects {
-    position: relative;
+    position: sticky;
     height: 100vh; /* Adjust the height as needed */
     background: url('./bkgd.gif') center/cover no-repeat; /* Set the path to your GIF file */
     display: flex;
@@ -36,16 +36,13 @@
     position: absolute;
 }
 
-/* #hd {
-    background-color: #070707;
+#hd {
     height: 150px;
     width: 17%;
     border-radius: 50%;
-    box-shadow: 0px 0px 25px 2px plum;
-    position: absolute;
+    position: inherit;
     left: 40%;
-    z-index: 1;
-} */
+}
 
 .container {
     margin-top: 0px;
