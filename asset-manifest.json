@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.17712794.css",
+    "main.js": "/my-portfolio/static/js/main.681ce3c7.js",
+    "static/media/bkgd.gif": "/my-portfolio/static/media/bkgd.61d3dde348d7cc359676.gif",
+    "static/media/cntc.gif": "/my-portfolio/static/media/cntc.a853d03c316bcc5cadb1.gif",
+    "static/media/cl.gif": "/my-portfolio/static/media/cl.2029b92235700818bcd5.gif",
+    "static/media/hku.png": "/my-portfolio/static/media/hku.b644d859131100974dee.png",
+    "static/media/klanguage.png": "/my-portfolio/static/media/klanguage.a0bbe33fba211e6ed8e7.png",
+    "static/media/google.esha.png": "/my-portfolio/static/media/google.esha.319289e0b7cd853a1c3e.png",
+    "static/media/meta.png": "/my-portfolio/static/media/meta.9e15229927b5fe696f3e.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.0515de7f29da66ade1af.png",
+    "static/media/udemy.png": "/my-portfolio/static/media/udemy.413e3cd7ed333f3e0158.png",
+    "static/media/ggRight.png": "/my-portfolio/static/media/ggRight.b31f06195acf860f591e.png",
+    "static/media/ggLeft.png": "/my-portfolio/static/media/ggLeft.e162fce70e4e8a985261.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.17712794.css.map": "/my-portfolio/static/css/main.17712794.css.map",
+    "main.681ce3c7.js.map": "/my-portfolio/static/js/main.681ce3c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17712794.css",
+    "static/js/main.681ce3c7.js"
+  ]
+}
