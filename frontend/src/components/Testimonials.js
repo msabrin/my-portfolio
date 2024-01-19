@@ -119,17 +119,17 @@ export default function Testimonials() {
 </div>
 
 <div className="inline-flex items-center">
-<div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
+<div className="udmy h-full bg-gray-800 bg-opacity-50 p-8 rounded">
   <a href="https://coursera.org/verify/specializat
-ion/U76MJYCL5NTQ"><img alt="klanguage" src={klanguage}/></a>
-    <p>17 hours (approximately). Grade Achieved: 91.23%</p>
+ion/U76MJYCL5NTQ"><img alt="udemy" src={udemy}/></a>
   </div>
 </div>
 
 <div className="inline-flex items-center">
-<div className="udmy h-full bg-gray-800 bg-opacity-50 p-8 rounded">
+<div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded mt-5">
   <a href="https://coursera.org/verify/specializat
-ion/U76MJYCL5NTQ"><img alt="udemy" src={udemy}/></a>
+ion/U76MJYCL5NTQ"><img alt="klanguage" src={klanguage}/></a>
+    <p>17 hours (approximately). Grade Achieved: 91.23%</p>
   </div>
 </div>
 
