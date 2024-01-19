@@ -30,18 +30,19 @@
 }
 
 .cd {
-    top: -5px;
-    left: 35px;
-    z-index: 1;
-    position: absolute;
+    /* top: -5px;
+    left: 35px; */
+    /* z-index: 1; */
+    position: sticky;
+    height: 120px;
+    margin-bottom: 5px;
 }
 
 #hd {
-    height: 150px;
-    width: 17%;
+    /* height: 120px; */
+    margin-bottom: 5px;
+    width: 100%;
     border-radius: 50%;
-    position: inherit;
-    left: 40%;
 }
 
 .container {

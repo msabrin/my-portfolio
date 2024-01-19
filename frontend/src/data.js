@@ -102,23 +102,23 @@ export const meta = [
 export const hku = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "28 hours (approximately). Skills I have gain: *Project Management, *Software Engineering, *Project Planning",
     image: "./hku.1.png",
-    company: "Zoozle",
+    company: "Software Engineering: Modeling Software Systems using UML",
     link: "https://coursera.org/verif y/LGJS5KDNBEUW",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "19 hours (approximately). Skills I have gain: *Project Management, *Software Engineering, *Software Testing",
     image: "./hku.2.png",
-    company: "Dooble.io",
+    company: "Software Engineering: Implementation and Testing",
     link: "https://coursera.org/verif y/LQN5MNP2GVTV",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "19 hours (approximately). Skills I have gain: *Project Management, *Software Engineering, *Systems Design, *Project Planning",
     image: "./hku.3.png",
-    company: "Dooble.io",
+    company: "Software Engineering: Software Design and Project Management",
     link: "",
   },
 ];

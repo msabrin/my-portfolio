@@ -44,14 +44,14 @@ export default function Testimonials() {
               Crtfct
             </h1> */}
             <div className="inline-flex items-center">
-            <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+            <div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
               <img alt="Google" src={Google}/>
-                <p>27 hours (approximately) Grade Achieved: 100%</p>
+                <p>27 hours (approximately). Grade Achieved: 100%</p>
               </div>
             </div>
 
             <div className="pht inline-flex items-center">
-            <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+            <div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
               <img alt="mets" src={Meta}/>
                <div>
                 <p>Approximately 7 months at 6 hours a week (required)</p>
@@ -63,7 +63,7 @@ export default function Testimonials() {
   <div className="flex flex-wrap m-4">
   {meta.map((meta) => (
      <div className="p-4 md:w-1/3 w-full">
-      <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+      <div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
  {/* <TerminalIcon className="block w-8 text-gray-500 mb-4" /> */}
        <div className="inline-flex items-center">
      <img
@@ -86,16 +86,16 @@ export default function Testimonials() {
             </div>
 
 <div className="inline-flex items-center">
-<div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
-  <img alt="mets" src={hkut}/>
-    
+<div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
+  <img alt="hongkong" src={hkut}/>
+    <p>The Hong Kong University of Science and Technology</p>
   </div>
 </div>
 
 <div className="row flex flex-wrap m-4">
   {hku.map((hku) => (
     <div className="p-4 md:w-1/3 w-full">
-      <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+      <div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
         {/* <TerminalIcon className="block w-8 text-gray-500 mb-4" /> */}
         <div className="inline-flex items-center">
           <img
@@ -118,10 +118,10 @@ export default function Testimonials() {
 </div>
 
 <div className="inline-flex items-center">
-<div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+<div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
   <a href="https://coursera.org/verify/specializat
 ion/U76MJYCL5NTQ"><img alt="klanguage" src={klanguage}/></a>
-    
+    <p>17 hours (approximately). Grade Achieved: 91.23%</p>
   </div>
 </div>
 
