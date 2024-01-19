@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "homepage": "http://msabrin.github.io/my-portfolio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
@@ -19,6 +20,8 @@
   },
   "scripts": {
     "start": "craco start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
