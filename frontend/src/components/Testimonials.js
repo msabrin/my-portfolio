@@ -5,6 +5,7 @@ import { hku, meta } from "../data";
 import Google from "./image/google.esha.png";
 import Meta from "./image/meta.png";
 import hkut from "./image/hku.png";
+import udemy from "./image/udemy.png";
 import klanguage from "./image/klanguage.png";
 import "./test.css";
 import "./move.css";
@@ -54,7 +55,7 @@ export default function Testimonials() {
             <div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
               <img alt="mets" src={Meta}/>
                <div>
-                <p>Approximately 7 months at 6 hours a week (required)</p>
+                <p>168 hours (Approximately)</p>
                </div>
               </div>
             </div>
@@ -122,6 +123,13 @@ export default function Testimonials() {
   <a href="https://coursera.org/verify/specializat
 ion/U76MJYCL5NTQ"><img alt="klanguage" src={klanguage}/></a>
     <p>17 hours (approximately). Grade Achieved: 91.23%</p>
+  </div>
+</div>
+
+<div className="inline-flex items-center">
+<div className="udmy h-full bg-gray-800 bg-opacity-50 p-8 rounded">
+  <a href="https://coursera.org/verify/specializat
+ion/U76MJYCL5NTQ"><img alt="udemy" src={udemy}/></a>
   </div>
 </div>
 
