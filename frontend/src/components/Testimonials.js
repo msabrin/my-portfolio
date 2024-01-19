@@ -65,7 +65,6 @@ export default function Testimonials() {
   {meta.map((meta) => (
      <div className="p-4 md:w-1/3 w-full">
       <div className="h-full bg-gray-800 bg-opacity-50 p-8 rounded">
- {/* <TerminalIcon className="block w-8 text-gray-500 mb-4" /> */}
        <div className="inline-flex items-center">
      <img
        alt="testimonial"
